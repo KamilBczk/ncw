@@ -275,6 +275,16 @@
 .text-grey-500 {color: $grey-500;}
 
 
+// Text transform
+// @text-transform-# (none, capitalize, uppercase, lowercase, fullwidth)
 
+.text-transform-none {text-transform: $tt-none;}
 
+.text-transform-capitalize {text-transform: $tt-capitalize;}
+
+.text-transform-uppercase {text-transform: $tt-uppercase;}
+
+.text-transform-lowercase {text-transform: $tt-lowercase;}
+
+.text-transform-fullwidth {text-transform: $tt-full-width;}
 
