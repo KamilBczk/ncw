@@ -1,0 +1,61 @@
+/* |################################| */
+/* |# _typography.scss #############| */
+/* |################################| */
+
+
+// Text Type
+// @# (h1, h2, h3, h4, h5, h6, large, base, small & xsmall)
+
+.h1 {font-size: $fs-h1;}
+
+.h2 {font-size: $fs-h2;}
+
+.h3 {font-size: $fs-h3;}
+
+.h4 {font-size: $fs-h4;}
+
+.h5 {font-size: $fs-h5;}
+
+.h6 {font-size: $fs-h6;}
+
+.large {font-size: $fs-large;}
+
+.base {font-size: $fs-base;}
+
+.small {font-size: $fs-small;}
+
+.xsmall {font-size: $fs-xsmall;}
+
+
+// Text Color
+// @text-white
+// @text-white-# (50, 75, 100, 200, 300, 400 & 500)
+
+.text-white {color: $white;}
+.text-white-50 {color: $white-50;}
+.text-white-75 {color: $white-75;}
+.text-white-100 {color: $white-100;}
+.text-white-200 {color: $white-200;}
+.text-white-300 {color: $white-300;}
+.text-white-400 {color: $white-400;}
+.text-white-500 {color: $white-500;}
+
+
+// @text-black
+// @text-black-# (50, 75, 100, 200, 300, 400 & 500)
+
+.text-black {color: $black;}
+.text-black-50 {color: $black-50;}
+.text-black-75 {color: $black-75;}
+.text-black-100 {color: $black-100;}
+.text-black-200 {color: $black-200;}
+.text-black-300 {color: $black-300;}
+.text-black-400 {color: $black-400;}
+.text-black-500 {color: $black-500;}
+
+
+
+
+
+
+// @text-white-# (white, black, red, pink, purple, deeppurple, indigo, blue, lightblue, cyan, teal, green, lightgreen, lime, yellow, amber, orange, deeporange, brown & grey)
