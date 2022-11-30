@@ -2,6 +2,9 @@
 /* |# _typography.scss #############| */
 /* |################################| */
 
+@use '../abstracts/text-variables' as *;
+@use '../abstracts/colors-variables' as *;
+
 
 // Text Type
 // @# (h1, h2, h3, h4, h5, h6, large, base, small & xsmall)
