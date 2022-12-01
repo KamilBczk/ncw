@@ -2,4 +2,37 @@
 /* |# reset.scss ###################| */
 /* |################################| */
 
+@use '../abstracts/text-variables' as *;
 
+
+// Reset h#
+
+h1 {
+  font-size: $fs-h1;
+  font-weight: $fw-700;
+}
+
+h2 {
+  font-size: $fs-h2;
+  font-weight: $fw-700;
+}
+
+h3 {
+  font-size: $fs-h3;
+  font-weight: $fw-700;
+}
+
+h4 {
+  font-size: $fs-h4;
+  font-weight: $fw-700;
+}
+
+h5 {
+  font-size: $fs-h5;
+  font-weight: $fw-700;
+}
+
+h6 {
+  font-size: $fs-h6;
+  font-weight: $fw-700;
+}
